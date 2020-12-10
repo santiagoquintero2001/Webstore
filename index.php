@@ -43,7 +43,7 @@
             </a>
           </li>
           <li class="nav-item px-lg-4">
-            <a class="nav-link text-uppercase text-expanded" href="store.html">Agregar</a>
+            <a class="nav-link text-uppercase text-expanded" href="store.html">Register</a>
           </li>
         </ul>
       </div>
